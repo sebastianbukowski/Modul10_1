@@ -40,5 +40,7 @@
     "rimraf": "^2.6.2",
     "mkdirp": "^0.5.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
